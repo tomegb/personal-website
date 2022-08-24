@@ -1,7 +1,7 @@
 # personal-website
 My personal website created with vue, nuxt3 and tailwind.
 
-#### Languages, Tools
+#### Languages&Frameworks:
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />][wikipediahtml]
 [<img align="left" alt="CSS" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />][wikipediacss]
