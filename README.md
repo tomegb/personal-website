@@ -10,3 +10,9 @@ My personal website created with vue, nuxt3 and tailwind.
 [<img align="left" alt="Java" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" />][wikipediajava]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />][wikipediagithub]
 
+[wikipediahtml]: https://en.wikipedia.org/wiki/HTML
+[wikipediacss]: https://en.wikipedia.org/wiki/CSS
+[wikipediajs]: https://en.wikipedia.org/wiki/JavaScript
+[wikipediavue]: https://en.wikipedia.org/wiki/Vue.js
+[wikipediajava]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[wikipediagithub]: https://en.wikipedia.org/wiki/GitHub
