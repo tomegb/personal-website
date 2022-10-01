@@ -3,6 +3,6 @@
 	<link rel="shortcut icon" type="image/png" href="/static/favicon.png" />
 	<title>tomegb</title>
 	<hero />
-	<projects />
+	<main_site />
 	<main_footer />
 </template>
