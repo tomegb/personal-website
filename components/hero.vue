@@ -9,7 +9,9 @@
 		<div class="hero-content text-center text-neutral-content">
 			<div class="max-w-md">
 				<h1 class="mb-5 text-5xl font-bold">Hello there</h1>
-				<p class="mb-5">A sysadmin and nooby full stack developer living in Germany.</p>
+				<p class="mb-5">
+					A 17 years old sysadmin and half stack developer who is living in Germany.
+				</p>
 			</div>
 		</div>
 	</div>
