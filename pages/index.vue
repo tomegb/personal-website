@@ -2,6 +2,7 @@
 	<meta charset="utf-8" />
 	<link rel="shortcut icon" type="image/png" href="/static/favicon.png" />
 	<title>tomegb</title>
+	<navbar />
 	<hero />
 	<main_site />
 	<main_footer />
