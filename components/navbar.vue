@@ -1,7 +1,7 @@
 <template>
 	<div class="navbar fixed top-0 w-full bg-black bg-opacity-50">
 		<div class="flex-1">
-			<a class="btn btn-ghost text-xl normal-case">tomegb</a>
+			<nuxt-link :to="'/'" class="btn btn-ghost text-xl normal-case">tomegb</nuxt-link>
 		</div>
 		<div class="flex-none">
 			<button class="btn btn-ghost btn-square">
