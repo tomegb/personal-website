@@ -74,7 +74,7 @@
 					<div class="display">
 						<div class="artboard artboard-demo phone-1">
 							<img
-								src="https://cdn.discordapp.com/attachments/932265928522088450/1025814443407446016/unknown.png"
+								src="https://cdn.discordapp.com/attachments/1013433809221455902/1013506592806805514/youtube_1.png"
 								class="max-w-sm rounded-lg"
 							/>
 						</div>
