@@ -4,6 +4,6 @@
 	<title>tomegb</title>
 	<navbar />
 	<hero />
-	<main_site />
+	<content />
 	<main_footer />
 </template>
