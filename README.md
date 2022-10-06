@@ -18,4 +18,3 @@ My personal website created with vue, nuxt3 and tailwind.
 [wikipediatailwind]: https://en.wikipedia.org/wiki/Tailwind_CSS
 
 
-
