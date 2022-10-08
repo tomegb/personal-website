@@ -20,7 +20,7 @@ module.exports = {
 	],
 	// daisyUI config (optional)
 	daisyui: {
-		themes: ["dark", "light"],
+		themes: ["dark"],
 
 	}
 };
