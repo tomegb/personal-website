@@ -17,5 +17,3 @@ My personal website created with vue, nuxt3 and tailwind.
 [wikipedianuxt]: https://en.wikipedia.org/wiki/Nuxt.js
 [wikipediatailwind]: https://en.wikipedia.org/wiki/Tailwind_CSS
 
-
-
